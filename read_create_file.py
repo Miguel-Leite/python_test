@@ -1,3 +1,7 @@
+    """
+    creating file csv and read a file.
+    """
+
 import csv
 
 file = open('data.csv', 'w')
